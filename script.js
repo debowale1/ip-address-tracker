@@ -1,5 +1,5 @@
 const submitBtn = document.querySelector('#submit-btn');
-const apiKey = 'at_GGtFs0mAaJhZ4GkijjzFgCpRVfxwD';
+const apiKey = 'at_wsOi92hCoJLUJwT6ssSIxEc5MtW5o';
 
 //when the window loads, display ip address info of user
 document.addEventListener('DOMContentLoaded', () => {
